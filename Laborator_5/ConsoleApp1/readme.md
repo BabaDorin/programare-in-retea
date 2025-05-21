@@ -1,0 +1,1 @@
+﻿dotnet run send "bvd.dorin@gmail.com" "dev.dorin.baba@gmail.com" "C# App with Attachment" "See attached file for more info." un_fisier.txt "confidential"
